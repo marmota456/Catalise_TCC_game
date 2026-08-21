@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"CATalise",
-    "path":"CATalise.yyp",
+    "name":"teste",
+    "path":"folders/teste.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
