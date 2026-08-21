@@ -30,6 +30,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"prc_player","path":"sprites/prc_player/prc_player.yy",},},
     {"id":{"name":"spr_colisor","path":"sprites/spr_colisor/spr_colisor.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"tileset","path":"sprites/tileset/tileset.yy",},},
     {"id":{"name":"tl_ceep","path":"tilesets/tl_ceep/tl_ceep.yy",},},
   ],
